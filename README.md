@@ -4,7 +4,7 @@
 Ce projet propose une interface permettant d'afficher la liste des villes ainsi que la liste des hôtels disponibles. L'objectif est de faciliter l'ajout de nouvelles villes et hôtels à ces listes.
 
 ## Fonctionnalités
-
+ 
 ### Liste des Villes
 - Affiche une liste de villes existantes.
 - Bouton "Ajouter une nouvelle ville" pour l'ajout de villes.
