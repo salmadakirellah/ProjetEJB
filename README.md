@@ -10,7 +10,5 @@ Interface présentant la liste des hôtels disponibles.
 
 
 Formulaire permettant d'ajouter un nouvel hôtel à la liste.
-
-
 Contient les champs nécessaires pour saisir les informations de l'hôtel.
 <img src="Capture d’écran 2023-12-04 202311.png" alt="Image 1" width="600" height="300">
